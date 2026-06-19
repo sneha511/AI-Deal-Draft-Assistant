@@ -1,10 +1,10 @@
-# AI Groupon Deal Draft Assistant
+# AI Deal Draft Assistant
 
-Demo: AI-assisted Groupon deal generation for small local merchants
+Demo: AI-assisted deal generation for small local merchants
 
-Prototype: **AI-assisted Groupon deal generation for small local merchants**
+Prototype: **AI-assisted deal generation for small local merchants**
 
-This prototype is built using Streamlit and OpenAI to generate strategic Groupon deal drafts for small merchants.
+This prototype is built using Streamlit and OpenAI to generate strategic deal drafts for small merchants.
 It demonstrates how AI can reduce friction in Groupon’s merchant onboarding flow by automatically generating **publish-ready deal drafts from minimal merchant input**.
 
 The assistant generates:
@@ -39,7 +39,7 @@ The assistant uses this input to generate realistic promotion strategies.
 
 ---
 
-## AI Generated Deal Strategies
+## AI-Generated Deal Strategies
 
 The assistant generates **three strategic deal options**:
 

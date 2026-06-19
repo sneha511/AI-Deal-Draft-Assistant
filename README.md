@@ -5,7 +5,7 @@ Demo: AI-assisted deal generation for small local merchants
 Prototype: **AI-assisted deal generation for small local merchants**
 
 This prototype is built using Streamlit and OpenAI to generate strategic deal drafts for small merchants.
-It demonstrates how AI can reduce friction in merchant onboarding flow by automatically generating **publish-ready deal drafts from minimal merchant input**.
+It demonstrates how AI can reduce friction in merchant onboarding flow (for example, Groupon) by automatically generating **publish-ready deal drafts from minimal merchant input**.
 
 The assistant generates:
 
